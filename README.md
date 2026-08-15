@@ -22,3 +22,4 @@ An Enterprise Resource & Relationship Management application designed for effici
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR-USERNAME/ER.git](https://github.com/YOUR-USERNAME/ER.git)
+.
